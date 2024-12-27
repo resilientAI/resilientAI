@@ -58,7 +58,7 @@ The global wig and hair extension market is projected to reach $13.3 billion by 
 
 ## 👥 Our Team
 
-- **Bella Liu** -founder
+- **Bella Liu** - Founder
 
 ## 🏆 Milestones
 
@@ -67,6 +67,12 @@ The global wig and hair extension market is projected to reach $13.3 billion by 
 - **March 2025**: Partnered with leading wig manufacturer
 - **July 2025**: Reached 100,000 active users
 - **September 2025**: Secured $5M Series A funding
+
+## 📊 Work Hours Visualization
+
+![Work Hours Visualization](./work_hours_viz.png)
+
+This visualization shows our commit activity over the last 30 days, giving insight into our work patterns and productivity.
 
 ## 📞 Contact Us
 
@@ -78,9 +84,6 @@ The global wig and hair extension market is projected to reach $13.3 billion by 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
 
 ## 🤝 Open Source Contributions
 
@@ -95,16 +98,6 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for 
 Our open-source projects are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-# Your Project Name
-
-... (existing content) ...
-
-## My Work Hours
-
-<WorkHoursViz />
-
-... (rest of the content) ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resilientAI&theme=dark&show_icons=true)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resilientAI&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
