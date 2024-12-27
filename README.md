@@ -75,6 +75,13 @@ The global wig and hair extension market is projected to reach $13.3 billion by 
 - Twitter: [@HairbookAI](https://twitter.com/HairbookAI)
 - LinkedIn: [resilientAI](https://www.linkedin.com/company/resilientai)
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+
 ## 🤝 Open Source Contributions
 
 We're proud to contribute to the open-source community. Check out our [open-source projects](https://github.com/resilientAI-opensource).
@@ -90,3 +97,7 @@ Our open-source projects are licensed under the MIT License. See the [LICENSE](L
 ---
 
 Built with ❤️ by resilientAI
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resilientAI&theme=dark&show_icons=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resilientAI&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
