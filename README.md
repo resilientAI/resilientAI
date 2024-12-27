@@ -1,6 +1,6 @@
 # HairbookAI by resilientAI
 
-![HairbookAI Logo](/path/to/logo.png)
+![HairbookAI Logo](https://github.com/resilientAI/resilientAI/blob/main/LOGO.jpg)
 
 > Design Your Style, From Head to Toe!
 
